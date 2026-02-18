@@ -5,8 +5,8 @@ import globalGroups from './globalGroups';
 
 export default defineGkdSubscription({
   id: 233,
-  name: 'Subscription',
-  version: 0,
+  name: 'GKD_CN_AppPurifier',
+  version: 1,
   author: 'warmfulfate',
   checkUpdateUrl: './gkd.version.json5',
   supportUri: 'https://github.com/gkd-kit/subscription-template',
