@@ -1,0 +1,1 @@
+{id:1802,name:'GKD_CN_AppPurifier',version:1,author:'warmfulate',checkUpdateUrl:'./warmfulfate_gkd.version.json5',supportUri:'https://github.com/warmfulfate/GKD_CN_AppPurifier/issues',categories:[],globalGroups:[],apps:[{id:'li.songe.gkd',name:'GKD',groups:[]},{id:'com.tencent.mobileqq',name:'QQ',groups:[]},{id:'com.tencent.mm',name:'微信',groups:[]}]}
