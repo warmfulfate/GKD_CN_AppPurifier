@@ -6,9 +6,9 @@ import globalGroups from './globalGroups';
 export default defineGkdSubscription({
   id: 1802,
   name: 'GKD_CN_AppPurifier',
-  version: 1,
+  version: 3,
   author: 'warmfulate',
-  checkUpdateUrl: './warmfulfate_gkd.version.json5',
+  checkUpdateUrl: './gkd.version.json5',
   supportUri: 'https://github.com/warmfulfate/GKD_CN_AppPurifier/issues',
   categories,
   globalGroups,
